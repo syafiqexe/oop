@@ -1,0 +1,11 @@
+D:\GH\tugas4\oop\bin\Debug\netcoreapp3.1\oop.exe
+D:\GH\tugas4\oop\bin\Debug\netcoreapp3.1\oop.deps.json
+D:\GH\tugas4\oop\bin\Debug\netcoreapp3.1\oop.runtimeconfig.json
+D:\GH\tugas4\oop\bin\Debug\netcoreapp3.1\oop.runtimeconfig.dev.json
+D:\GH\tugas4\oop\bin\Debug\netcoreapp3.1\oop.dll
+D:\GH\tugas4\oop\bin\Debug\netcoreapp3.1\oop.pdb
+D:\GH\tugas4\oop\obj\Debug\netcoreapp3.1\oop.csprojAssemblyReference.cache
+D:\GH\tugas4\oop\obj\Debug\netcoreapp3.1\oop.AssemblyInfoInputs.cache
+D:\GH\tugas4\oop\obj\Debug\netcoreapp3.1\oop.AssemblyInfo.cs
+D:\GH\tugas4\oop\obj\Debug\netcoreapp3.1\oop.dll
+D:\GH\tugas4\oop\obj\Debug\netcoreapp3.1\oop.pdb
